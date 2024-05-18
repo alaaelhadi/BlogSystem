@@ -166,14 +166,6 @@
     	</div>
     	<!---Password---->
 
-		<!---Adminstration----->
-		<!-- <div class="box" style="color: white;">
-		<label for="adminstration" class="fl fontLabel"> Adminstration: </label>
-			<input type="radio" name="isAdmin" value="1" class="radio" required> Admin &nbsp; &nbsp; &nbsp; &nbsp;
-			<input type="radio" name="isAdmin" value="0" class="radio" checked required> User
-		</div> -->
-		<!---Adminstration--->
-
 		<!---Submit Button------>
 		<div class="box">
 			<input type="Submit" name="Submit" class="sub" value="SUBMIT">
